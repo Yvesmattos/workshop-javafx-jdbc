@@ -43,7 +43,7 @@ public class DepartmentFormController implements Initializable {
 
 	@FXML
 	private Button btCancel;
-
+ 
 	@FXML
 	private void onBtSaveAction(ActionEvent event) {
 		if (entity == null) {
